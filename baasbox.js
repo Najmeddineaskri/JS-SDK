@@ -8,7 +8,7 @@
 var BaasBox = (function() {
 
     var instance;
-    var user;
+    var user;  
     var endPoint;
     var COOKIE_KEY = "baasbox-cookie";
 
